@@ -1,6 +1,6 @@
 {
   "output": "HISTORY.md",
-  "template": "keepachangelog",
+  "template": "compact",
   "unreleased": true,
   "commitLimit": false,
   "hideCredit": true,
