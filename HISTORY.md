@@ -2,13 +2,13 @@
   {
     "isoDate": "2023-09-20",
     "niceDate": "20 September 2023",
-    "diff": "v1.11.0..",
-    "href": "https://github.com/maxim-berdnikov/auto-changelog-test/compare/v1.11.0...v1.11.0",
+    "diff": "v1.10.0..",
+    "href": "https://github.com/maxim-berdnikov/auto-changelog-test/compare/v1.10.0...v1.12.0",
     "major": false,
     "minor": false,
     "tag": null,
-    "title": "v1.11.0",
-    "date": "2023-09-20T18:28:15.226Z",
+    "title": "v1.12.0",
+    "date": "2023-09-20T18:31:44.479Z",
     "summary": null,
     "commits": [
       {
@@ -22,40 +22,6 @@
         "message": "Поменять темплейт",
         "fixes": null,
         "href": "https://github.com/maxim-berdnikov/auto-changelog-test/commit/d05c04a36026b06a7c2772c0f949a05dfc56b49b",
-        "breaking": false,
-        "files": 1,
-        "insertions": 1,
-        "deletions": 1,
-        "merge": null
-      }
-    ],
-    "merges": [],
-    "fixes": []
-  },
-  {
-    "isoDate": "2023-09-20",
-    "niceDate": "20 September 2023",
-    "diff": "v1.10.0..v1.11.0",
-    "href": "https://github.com/maxim-berdnikov/auto-changelog-test/compare/v1.10.0...v1.11.0",
-    "major": false,
-    "minor": true,
-    "tag": "v1.11.0",
-    "date": "2023-09-20",
-    "title": "v1.11.0",
-    "version": "v1.11.0",
-    "summary": null,
-    "commits": [
-      {
-        "hash": "65efcb1a3f13916601da858d2949bb0d6ea452b7",
-        "shorthash": "65efcb1",
-        "author": "Maxim Berdnikov",
-        "email": "m.radik25@gmail.com",
-        "date": "2023-09-20T18:26:46.000Z",
-        "niceDate": "20 September 2023",
-        "subject": "Поменять темплейт",
-        "message": "Поменять темплейт",
-        "fixes": null,
-        "href": "https://github.com/maxim-berdnikov/auto-changelog-test/commit/65efcb1a3f13916601da858d2949bb0d6ea452b7",
         "breaking": false,
         "files": 1,
         "insertions": 1,
