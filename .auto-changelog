@@ -2,5 +2,6 @@
   "output": "HISTORY.md",
   "template": "keepachangelog",
   "unreleased": true,
-  "commitLimit": false
+  "commitLimit": false,
+  "hide-credit": true
 }
