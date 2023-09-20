@@ -4,5 +4,6 @@
   "unreleased": true,
   "commitLimit": false,
   "hideCredit": true,
-  "package": true
+  "package": true,
+  "releaseSummary": true
 }
