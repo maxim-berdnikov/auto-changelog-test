@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "auto-changelog -p --hide-credit && git add HISTORY.md"
+    "version": "auto-changelog && git add HISTORY.md"
   },
   "keywords": [],
   "author": "",
