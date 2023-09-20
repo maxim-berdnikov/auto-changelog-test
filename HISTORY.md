@@ -5,7 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [v1.10.0](https://github.com/maxim-berdnikov/auto-changelog-test/compare/v1.9.0...v1.10.0)
+## [v1.11.0](https://github.com/maxim-berdnikov/auto-changelog-test/compare/v1.12.0...v1.11.0)
+
+Теперь должно быть summary
+
+### Commits
+
+- Дополнить конфиг [`ba17696`](https://github.com/maxim-berdnikov/auto-changelog-test/commit/ba17696e582ba0bd95dc929215ddf31378e5e83d)
+
+## [v1.12.0](https://github.com/maxim-berdnikov/auto-changelog-test/compare/v1.10.0...v1.12.0) - 2023-09-20
+
+### Commits
+
+- Поменять темплейт [`d05c04a`](https://github.com/maxim-berdnikov/auto-changelog-test/commit/d05c04a36026b06a7c2772c0f949a05dfc56b49b)
+
+## [v1.10.0](https://github.com/maxim-berdnikov/auto-changelog-test/compare/v1.9.0...v1.10.0) - 2023-09-20
 
 ### Commits
 
