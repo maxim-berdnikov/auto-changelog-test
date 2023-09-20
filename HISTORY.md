@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-#### [v1.12.0](https://github.com/maxim-berdnikov/auto-changelog-test/compare/v1.12.0...v1.12.0)
+#### [v1.13.0](https://github.com/maxim-berdnikov/auto-changelog-test/compare/v1.12.0...v1.13.0)
 
 - Дополнить конфиг [`ba17696`](https://github.com/maxim-berdnikov/auto-changelog-test/commit/ba17696e582ba0bd95dc929215ddf31378e5e83d)
 - Обновить конфиг [`28d173a`](https://github.com/maxim-berdnikov/auto-changelog-test/commit/28d173ac2689c770a238566960b098b72bf41d41)
